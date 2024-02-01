@@ -20,7 +20,7 @@
 M=0
 
 (LOOP)
-// if R1 == 0 goto END
+// if R1 == 0 go to END
 @R1
 D=M
 @END
